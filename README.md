@@ -4,7 +4,7 @@
 
 1. Log into the server by goint to following [server] (mol-8012.gcf.sigma2.no)
 
-Hopefully you will now see this
+Hopefully you will now see get a wepage notebook and this is the interface to your remote server
 ![alt text](screenshots/login.png)
 
 
