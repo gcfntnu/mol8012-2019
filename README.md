@@ -2,7 +2,7 @@
 
 # Practical bioinformatics
 
-1. Log into the server by goint to following url (mol-8012.gcf.sigma2.no)
+1. Log into the server by goint to following [server] (mol-8012.gcf.sigma2.no)
 
 Hopefully you will now see this screen: (screenshots/login.png)
 
