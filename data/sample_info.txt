@@ -1,0 +1,11 @@
+Sample_Biosource	Concentration	260_280	260_230	Sample_Group
+6a	CD4	3.2	1.8	0.3	Control
+8a	CD4	6.2	1.89	0.1	Cancer
+B1	CD4	35.3	2.29	1.41	Control
+B13	CD4	6.6	2.16	0.07	Control
+B14	CD4	7.1	1.42	0.14	Cancer
+B17	CD4	11.8	2.17	0.66	Control
+B18	CD4	8.1	1.51	0.28	Cancer
+B2	CD4	12.3	1.98	1.09	Cancer
+B5	CD4	5.91	1.87	0.31	Control
+B6	CD4	18.2	2.26	0.67	Cancer
