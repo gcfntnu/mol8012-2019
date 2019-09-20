@@ -2,21 +2,12 @@
 
 # Practical bioinformatics
 
-1. Log into the server by goint to following [mol8012-2019.gcf.sigma2.no](mol8012-2019.gcf.sigma2.no)
+1. Log into the server by goint to following [mol8012-2019.gcf.sigma2.no](https://mol8012-2019.gcf.sigma2.no)
 
 Hopefully you will now see get a wepage notebook and this is the interface to your remote server
 ![alt text](screenshots/login.png)
 
-Optional:
-In a terminal window install the needed R packages by these commands:
-```
-conda config --add channels defaults
-conda config --add channels bioconda
-conda config --add channels conda-forge
-conda install r-tidyverse r-ggplot2 r-wgcna bioconductor-deseq2
-```
-
-2. Go into the *data* directory (anything stored under this folder will be present if you log in again at a later timepoint. Then create a folder for yourself, e.g I will make a folder named `arnar`. Do this by right click and choose create folder. Name the folder something unique for yourself.
+2. Go into the *data* directory (anything stored under this folder will be present if you log in again at a later timepoint. Then go to the folder with your name. E.g for me, there will be a folder named `arnar`. If your name is not present, you can create one by right clicking and choose create folder. Name the folder something unique for yourself.
 
 3. Open a terminal window (from the launcher tab). In the terminal we will change directory to your specific directory and then clone data and notebooks from our github repository:
 ```
