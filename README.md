@@ -18,6 +18,6 @@ git clone https://github.com/gcfntnu/mol8012-2019.git
 ![alt text](screenshots/git_clone.png)
 
 
-4. Open the mol8012-2019 folder and double click on either the 01 or 02 notebook. The first notebook is essentiall just to show you what is needed to create a differential expression result from a count matrix. The second notebook describes your home assignemnt.
+4. Open the mol8012-2019 folder and double click on either the 01 or 02 notebook. The first notebook is essential just to show you what is needed to create a differential expression result from a count matrix. The first notebook will be covered in a walk-through and generates data used as input in the second notebook. The second notebook describes your home assignemnt and is focused on interpretation of a gene expression result.
 
 **Good luck**
