@@ -14,7 +14,7 @@ Hopefully you will now see get a wepage notebook and this is the interface to yo
 
 In the terminal we will change directory to your specific directory and then clone data and notebooks from our github repository:
 ```
-cd data/arnar
+cd shared-gcf-ns9689k/arnar
 git clone https://github.com/gcfntnu/mol8012-2019.git
 ```
 
