@@ -7,7 +7,7 @@
 
 # Practical bioinformatics
 
-1. Log into the server by goint to following [mol8012-2021.gcf.sigma2.no](https://mol8012-2021.gcf.sigma2.no)
+1. Log into the server by goint to following [mol8012.gcf.sigma2.no](https://mol8012.gcf.sigma2.no)
 
 Hopefully you will now see get a wepage notebook and this is the interface to your remote server
 ![alt text](screenshots/login.png)
