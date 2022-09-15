@@ -1,11 +1,12 @@
 **MOL8012 - High-Throughput Genomics**
 
 # Notebook login setup
-1) Create an OpenIDP account [https://openidp.feide.no](https://openidp.feide.no)
+1) **Create an OpenIDP account** [https://openidp.feide.no](https://openidp.feide.no)
 ![alt text](screenshots/openid.png)
-2) Log in on dataporten with your new OpenID account [https://minside.dataporten.no](https://minside.dataporten.no) as **Feide guest users** not the usual Feide login!
+2) **Log in on dataporten with your new OpenID account** [https://minside.dataporten.no](https://minside.dataporten.no) as **Feide guest users** not the usual Feide login!
 ![alt text](screenshots/feide_guest.png)
-3) Click on the Invitation link you received in e-mail 
+3) **Click on the Invitation link you received in e-mail**     
+**Now you should be ready to use the server!**  
 
 
 # Practical bioinformatics
