@@ -3,7 +3,8 @@
 # Notebook login setup
 1) Create an OpenIDP account [https://openidp.feide.no](https://openidp.feide.no)
 2) Log in on dataporten with your new OpenID account [https://minside.dataporten.no](https://minside.dataporten.no) as **Feide guest users** not the usual Feide login!
-3) Click on the Invitation link you received in e-mail [https://minside.dataporten.no//#invitation/c56921e4-1178-4226-bcde-ab82f19c6dca/325c4e26-0c06-4c8f-8185-7e72d1e582ea](https://minside.dataporten.no//#invitation/c56921e4-1178-4226-bcde-ab82f19c6dca/325c4e26-0c06-4c8f-8185-7e72d1e582ea)
+3) Click on the Invitation link you received in e-mail 
+
 
 # Practical bioinformatics
 
