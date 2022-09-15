@@ -2,13 +2,16 @@
 
 # Notebook login setup
 1) Create an OpenIDP account [https://openidp.feide.no](https://openidp.feide.no)
+![alt text](screenshots/openid.png)
 2) Log in on dataporten with your new OpenID account [https://minside.dataporten.no](https://minside.dataporten.no) as **Feide guest users** not the usual Feide login!
+![alt text](screenshots/feide_guest.png)
 3) Click on the Invitation link you received in e-mail 
 
 
 # Practical bioinformatics
 
 1. Log into the server by goint to following [mol8012.gcf.sigma2.no](https://mol8012.gcf.sigma2.no)
+
 
 Hopefully you will now see get a wepage notebook and this is the interface to your remote server
 ![alt text](screenshots/login.png)
