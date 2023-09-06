@@ -1,4 +1,10 @@
-**MOL8012 - High-Throughput Genomics**
+**MOL8012 - High-Throughput Genomics**  
+The practical bioinformatic session uses a sigma2 remote server with a [jupyter notebook](https://jupyter.org/).  
+This documentation will describe:  
+* Login to remote server
+* Download rna-seq data for analysis
+* Download code for analysis of rna-seq data (notebooks)
+* Run notebook analysis 
 
 # Notebook login setup
 1) **Create an OpenIDP account** [https://openidp.feide.no](https://openidp.feide.no)
@@ -12,7 +18,7 @@
 
 # Practical bioinformatics
 
-1. Log into the server by going to following [mol8012-2023.gcf.sigma2.no](https://mol8012-2023.gcf.sigma2.no)
+1. Log into the server by going to [mol8012-2023.gcf.sigma2.no](https://mol8012-2023.gcf.sigma2.no)
 
 
 Hopefully, you will now see get a webpage notebook and this is the interface to your remote server
@@ -62,5 +68,7 @@ git clone https://github.com/gcfntnu/mol8012-2019.git
 
 
 4. Open the mol8012-2019 folder and double-click on either the 01 or 02 notebook. The first notebook is essential just to show you what is needed to create a differential expression result from a count matrix. The first notebook will be covered in a walk-through and generates data used as input in the second notebook. The second notebook describes your home assignment and is focused on the interpretation of a gene expression result.
+
+Jupyterlab documentation (https://jupyterlab.readthedocs.io/en/latest/)
 
 **Good luck**
