@@ -72,7 +72,8 @@ git clone https://github.com/gcfntnu/mol8012-2019.git
 >What is Jupyter Notebook?  
 >A Jupyter Notebook consists of three main components: cells, a runtime environment, and a file system. Cells are the individual units of the notebook, and they can contain either text or code
 >
->You can run one cell by hitting `shift-enter`. Or you can run one or multiple cells from the run tab.
+>You can run one cell by hitting `shift-enter`. Or you can run one or multiple cells from the run tab.  
+>At any time you may restart the analysis by selecting from the menu: `kernel -> Restart Kernel and Clear Outputs of All Cells`
 
 ![alt text](screenshots/notebook_run.png)
 
