@@ -9,6 +9,7 @@
 **Now you should be ready to use the server!**  
 
 
+
 # Practical bioinformatics
 
 1. Log into the server by going to following [mol8012-2023.gcf.sigma2.no](https://mol8012-2023.gcf.sigma2.no)
@@ -23,7 +24,30 @@ Hopefully you will now see get a wepage notebook and this is the interface to yo
 ![alt text](screenshots/terminal.png)
 
 In the terminal we will change the directory to your specific directory and then clone data and notebooks from our github repository:
-
+>What is `cd` in Linux terminal?
+>
+>The cd command (_change directory_) accepts several types of arguments. We will go through the most frequently used ones.
+>
+> `cd /`
+>To go to the root directory, we input / as the argument.
+>
+> `cd`
+>We do not provide any arguments to the cd command to go to the home directory.
+>
+> `cd ..`
+>To shift one level above the current directory, we input .. as the argument.
+>
+> `cd -`
+>To go to the previous directory, we use - as our argument.
+>
+> `cd /folder/subfolder`
+>For custom navigation across any directory, we can send its path as the argument.
+>
+> Other useful commands are:  
+>  `ls` 
+>_list directory contents_  
+> `pwd`
+>_print working directory_
 ```
 cd shared-gcf-ns9689k/arnar
 git clone https://github.com/gcfntnu/mol8012-2019.git
