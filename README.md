@@ -69,6 +69,13 @@ git clone https://github.com/gcfntnu/mol8012-2019.git
 
 4. Open the mol8012-2019 folder and double-click on either the 01 or 02 notebook. The first notebook is essential just to show you what is needed to create a differential expression result from a count matrix. The first notebook will be covered in a walk-through and generates data used as input in the second notebook. The second notebook describes your home assignment and is focused on the interpretation of a gene expression result.
 
+>What is Jupyter Notebook?  
+>A Jupyter Notebook consists of three main components: cells, a runtime environment, and a file system. Cells are the individual units of the notebook, and they can contain either text or code
+>
+>You can run one cell by hitting `shift-enter`. Or you can run one or multiple cells from the run tab.
+
+![alt text](screenshots/notebook_run.png)
+
 Jupyterlab documentation (https://jupyterlab.readthedocs.io/en/latest/)
 
 **Good luck**
