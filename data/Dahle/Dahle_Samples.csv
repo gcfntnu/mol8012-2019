@@ -1,0 +1,20 @@
+sample name mice	Batch nr	Strain	Treatment		new names
+512A	1	C57	Untreated control		Ctrl_A_1
+945A	2	C57	Untreated control		Ctrl_A_2
+946A	2	C57	Untreated control		Ctrl_A_3
+512N	1	C57	Untreated control		Ctrl_N_1
+945N	2	C57	Untreated control		Ctrl_N_2
+946N	2	C57	Untreated control		Ctrl_N_3
+636A	1	C57	DCZ control		DCZctrl_A_1
+637A	1	C57	DCZ control		DCZctrl_A_2
+942A	2	C57	DCZ control 		DCZctrl_A_3
+944A	2	C57	DCZ control 		DCZctrl_A_4
+636N	1	C57	DCZ control		DCZctrl_N_1
+637N	1	C57	DCZ control		DCZctrl_N_2
+942N	2	C57	DCZ control 		DCZctrl_N_3
+717A	1	C57	Treated, DCZ		DCZTrt_A_1
+831A	2	C57	Treated, DCZ		DCZTrt_A_2
+833A	2	C57	Treated, DCZ		DCZTrt_A_3
+717N	1	C57	Treated, DCZ		DCZTrt_N_1
+831N	2	C57	Treated, DCZ		DCZTrt_N_2
+833N	2	C57	Treated, DCZ		DCZTrt_N_3

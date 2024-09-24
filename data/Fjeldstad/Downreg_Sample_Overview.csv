@@ -1,0 +1,16 @@
+Sample name	Animal	Batch nr	Cell type	Treatment
+Ctrl_A_1	512A	1	Astrcoyte	Untreated control
+Ctrl_A_2	945A	2	Astrcoyte	Untreated control
+Ctrl_A_3	946A	2	Astrocyte	Untreated control
+Ctrl_N_1	512N	1	Neuron	Untreated control
+Ctrl_N_2	945N	2	Neuron	Untreated control
+Ctrl_N_3	946N	2	Neuon	Untreated control
+IVMctrl_N_1	606N	1	Neuorn	IVM control 
+IVMctrl_N_2	867N	2	Neuron	IVM control 
+IVMctrl_N_3	607N	1	Neuron	IVM control 
+IVMTrt_A_1	548A	1	Astrocyte	Treated, IVM
+IVMTrt_A_2	872A	2	Astrocyte	Treated, IVM
+IVMTrt_A_3	874A	2	Astrocyte	Treated, IVM
+IVMTrt_N_1	548N	1	Neuron	Treated, IVM
+IVMTrt_N_2	872N	2	Neuron	Treated, IVM
+IVMTrt_N_3	874N	2	Neuron	Treated, IVM
