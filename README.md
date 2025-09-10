@@ -34,6 +34,7 @@ In the terminal we will create a new directory for your personal project and the
 >What is `mkdir` in the Linux terminal?
 >
 > The mkdir command (_make directory_) accepts the new name of a directory. `mkdir arnar` will create a new directory with name arnar
+>  
 >What is `cd` in the Linux terminal?
 >
 >The cd command (_change directory_) accepts several types of arguments. We will go through the most frequently used ones.
