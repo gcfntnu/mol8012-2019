@@ -17,6 +17,7 @@ This documentation will describe:
 
 
 # Practical bioinformatics
+**(Do not start these steps before the steps above have been cleared with instructor!)**
 
 1. Log into the server by going to [mol-8012.gcf.sigma2.no](https://mol-8012.gcf.sigma2.no/)
 
